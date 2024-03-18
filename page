@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  </head>
+  
+  <body>
+    <div class= "card">
+      <h1>
+        Hey, my name is Jason!👻
+      </h1>
+
+      <img id = "profile-pic" src="https://t.ly/MbbPI" width = 300px>
+      <br>
+      <br>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">Check Out freeCodeCamp</a>
+    </div>
+      
+    <div class= "card">
+      <h2>
+        Sports⚽
+      </h2>
+      <p>
+        I love playing football, volleyball, and badminton.
+      </p>
+    </div>
+      
+    <div class="card">
+      <h2>
+        Books and Podcasts📖
+      </h2>
+      <p>
+        I love reading books and listening to podcasts.
+      </p>   
+    </div>
+    
+    <div class="card">
+      <h2>
+        Business and Finance💰
+      </h2>
+      <p>
+        I love learning about business, finance, and entrepeneurship.
+      </p>
+    </div>
+  </body>
+</html>
